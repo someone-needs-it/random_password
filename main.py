@@ -25,7 +25,7 @@ text = tkinter.Text(
     width=number_of_simbol+1,
     bg="black",
     fg="white",
-    borderwidth=10
+    borderwidth=15
 )
 text.pack(expand=1)
 tkinter.Button(
